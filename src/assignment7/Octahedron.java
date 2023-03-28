@@ -28,6 +28,8 @@ public class Octahedron extends IndexedTriangleArray {
         			   5,1,4,
         			   5,2,3,
         			   5,3,4};
+        
+        setCoordinateIndices(0,coords);
     
     }
 }
