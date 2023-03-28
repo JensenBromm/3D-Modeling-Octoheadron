@@ -1,6 +1,5 @@
 package assignment7;
 
-import project6.*;
 import java.awt.*;
 import javax.media.j3d.*;
 import com.sun.j3d.utils.universe.*;
